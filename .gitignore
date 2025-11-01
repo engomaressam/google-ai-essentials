@@ -1,0 +1,17 @@
+# Keep course materials (PDF, PNG, JPG)
+# Do not ignore course folders or docs
+
+# OS junk files
+Thumbs.db
+.DS_Store
+
+# Optionally ignore large archives and videos
+*.zip
+*.rar
+*.7z
+*.tar
+*.tar.gz
+*.mp4
+*.mov
+*.avi
+*.mkv
